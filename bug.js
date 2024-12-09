@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Go app to test an app that uses the react-native-maps library. The map fails to render correctly, showing only a blank space where the map should be.  This happens even if the map API key is correctly configured and all other necessary setup steps are followed.
